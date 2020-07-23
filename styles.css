@@ -1,0 +1,154 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+}
+h1{
+  color: #120136;
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+
+
+}
+
+h2{
+  color: #120136;
+  line-height: 2;
+  font-family: 'montserrat',sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 20px;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'montserrat',sans-serif;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top{
+  background-color: #639a67;
+  position: relative;
+  padding-top: 100px;
+}
+.middle{
+    background-color: #f1d1d1;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+.bottom{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+a{
+  color: #11999E;
+  font-family: 'montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+   color: #EAF6F6;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:  left;
+}
+
+.joinme{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.profile{
+      border-radius: 50%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 35%;
+
+}
+
+.into{
+  width: 30%;
+  margin-top: auto;
+}
+
+.footer-link{
+  color: #303960;
+
+}
+
+.computer{
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hackathon{
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: auto;
+}
+
+.btn {
+	box-shadow:inset -1px 9px 19px 11px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:38px;
+	border:5px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	font-weight:bold;
+	padding:25px 33px;
+	text-decoration:none;
+	text-shadow:-1px 2px 0px #2b665e;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
