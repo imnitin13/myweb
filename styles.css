@@ -38,6 +38,10 @@ hr{
   width: 4%;
   margin: 100px auto;
 }
+
+.h2-new {
+	 font-family: 'Sacramento', cursive;
+}
 .top{
   background-color: #639a67;
   position: relative;
